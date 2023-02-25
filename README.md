@@ -32,7 +32,7 @@ dotnet run
 To run unit tests, use the following command
 
 ```sh
-dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura
+dotnet test 
 ```
 
 ## Author
