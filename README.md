@@ -13,7 +13,7 @@ Features
 
 ## Image screenshots
 
-![APIs](https://user-images.githubusercontent.com/45427686/204125818-250711a6-f561-43be-81e4-73aad4f3e36c.png)
+![APIs](https://github.com/VidyaPalanivel/AddressBook-REST-API/blob/develop/AddressBook.png)
 
 ```
 ## Development setup
